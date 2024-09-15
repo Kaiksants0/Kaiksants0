@@ -50,7 +50,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,prisma,pug,dynamodb,express,firebase,redis,github,html,java,js,linux,windows,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode," />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,postgres,prisma,dynamodb,firebase,redis,github,html,java,js,linux,windows,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,ts,vscode," />
   </a>
 </p>
 
