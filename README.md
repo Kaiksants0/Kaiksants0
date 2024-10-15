@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Bem vindo(a) ao Olimpo</h1></summary>
+    <summary><h1 style="display: inline-block">Bem vindo(a)</h1></summary>
   </ul>
 </div>
 
